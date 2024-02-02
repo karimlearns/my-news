@@ -1,1 +1,1 @@
-"# my-news_custom-attribute" 
+"# news_custom-attribute" 
